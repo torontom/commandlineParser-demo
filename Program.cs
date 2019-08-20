@@ -40,10 +40,6 @@ namespace commandlineParser_demo
             return 0;
         }
 
-        static void NotMapped(IEnumerable<Error> errs)
-        {
-
-        }
 
         static void RunOptions(Options opts)
         {
